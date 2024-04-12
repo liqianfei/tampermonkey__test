@@ -12,8 +12,6 @@
 
 ;(function () {
   'use strict'
-  console.log('Hello World!')
-  console.log('Hello World!2')
-  console.log('Hello World!2')
+  console.log('Hello World!222')
   // Your code here...
 })()
